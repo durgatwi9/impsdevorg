@@ -17,5 +17,6 @@ private class Acc2OppApex_TGN_TEST{
     @isTest
     private static void Acc2OppApex_TGN_TEST(){
         Acc2OppApex obj = new Acc2OppApex();
+        system.debug('test apple');
     }
 }
