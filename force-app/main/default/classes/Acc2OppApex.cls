@@ -12,7 +12,7 @@ public  class Acc2OppApex {
             opportunity opp = new opportunity();
             opp.Name   = 'Test'+  Acc.name;
             opp.closeDate = date.today();
-            opp.StageName = 'closedwon';
+            opp.StageName = 'closedwon ttt';
             oppList.add(opp);
         }
         
